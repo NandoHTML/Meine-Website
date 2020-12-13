@@ -1,0 +1,33 @@
+.bild {
+    border: 2px solid; border-radius: 50%;  max-width: 25%;
+    height: auto;
+  }
+  
+  div {
+    text-align: center; margin: 20px
+  }
+  
+  ul 
+  {
+   margin-right: 5px;
+  }
+  
+  body {
+   background-color: black; color: white;
+  }
+  .GeneratedMarquee {
+  font-family:Arial, sans-serif;
+  font-size:2em;
+  color: white;
+  
+  padding: 0em;
+  
+  }
+  
+  body {
+   font-family: Courier New;
+  }
+  
+  a {
+        color: white;
+        }
